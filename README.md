@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitkaushal7" alt="rohitkaushal7" /> </p>
 
 - 🌱 I’m currently learning **React**
-- 👨‍💻 my projects [rohitkaushal7.github.io](abbyswag.netlify.app)
+- 👨‍💻 my projects [abbyswag.netlify.app](abbyswag.netlify.app)
 - 💬 Ask me about **Flask, Python, Js , Express**
 - 📫 **abbyswag25@gmail.com**
 
@@ -31,33 +31,33 @@
 <a href="https://www.cprogramming.com/" target="_blank"> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="20" height="20"/> 
 </a> 
-<a href="https://www.chartjs.org" target="_blank"> 
+<!-- <a href="https://www.chartjs.org" target="_blank"> 
     <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="20" height="20"/> 
-</a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank"> 
+</a>  -->
+<!-- <a href="https://www.w3schools.com/cpp/" target="_blank"> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/> 
-</a> 
+</a>  -->
 <a href="https://www.w3schools.com/css/" target="_blank"> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> 
 </a> 
-<a href="https://www.docker.com/" target="_blank"> 
+<!-- <a href="https://www.docker.com/" target="_blank"> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="20" height="20"/> 
-</a> 
+</a>  -->
 <a href="https://expressjs.com" target="_blank"> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="20" height="20"/> 
 </a> 
 <a href="https://www.figma.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="20" height="20"/> 
 </a>
- <a href="https://firebase.google.com/" target="_blank"> 
+ <!-- <a href="https://firebase.google.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="20" height="20"/> 
-</a> 
+</a>  -->
 <a href="https://cloud.google.com" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="20" height="20"/> 
 </a> 
-<a href="https://git-scm.com/" target="_blank"> 
+<!-- <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/> 
-</a> 
+</a>  -->
 <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> 
 </a> 
@@ -70,9 +70,9 @@
 <a href="https://materializecss.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="20" height="20"/> 
 </a> 
-<a href="https://mochajs.org" target="_blank"> 
+<!-- <a href="https://mochajs.org" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="20" height="20"/> 
-</a> 
+</a>  -->
 <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="20" height="20"/> 
 </a> 
@@ -94,12 +94,12 @@
 <a href="https://reactnative.dev/" target="_blank"> 
     <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="20" height="20"/> 
 </a> 
-<a href="https://sass-lang.com" target="_blank"> 
+<!-- <a href="https://sass-lang.com" target="_blank"> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="20" height="20"/> 
-</a> 
-<a href="https://www.typescriptlang.org/" target="_blank"> 
+</a>  -->
+<!-- <a href="https://www.typescriptlang.org/" target="_blank"> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/> 
-</a>
+</a> -->
  <a href="https://webpack.js.org" target="_blank"> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="20" height="20"/> 
 </a> </p>
